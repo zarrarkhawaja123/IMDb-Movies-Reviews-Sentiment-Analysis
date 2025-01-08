@@ -18,7 +18,7 @@ Performs sentiment analysis on the IMDB 50k reviews dataset using:
 - Comparison of metrics like accuracy, precision, recall, and F1 score for both models.  
 - Insights into model performance for classification tasks.  
 
-[Colab Link](https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_ML.ipynb)
+[Colab Link](https://colab.research.google.com/drive/10g9JMr6Bl8zTZUIXDSHDaZPVXdHn1hkW#scrollTo=0iZUYjYZtQXR)
 
 ---
 
@@ -31,7 +31,7 @@ Applies deep learning techniques for sentiment classification using:
 - Implementation of LSTM for processing textual data.  
 - Performance metrics analysis for DL-based models.  
 
-[Colab Link](https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/sentiment_classification_DL.ipynb)
+[Colab Link](https://colab.research.google.com/drive/1gycn0KPqzAg0prAqP2Kvagt5h9-Z1D7e#scrollTo=yQ-7wgJDtRT6)
 
 ---
 
@@ -43,7 +43,7 @@ Performs topic modeling on the IMDB 50k reviews dataset using BERTopic.
 - Extraction of topics to discover common themes in reviews.  
 - Insights into aspects such as acting, screenplay, and music.  
 
-[Colab Link](https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/Topic_Modeling_BERT.ipynb)
+[Colab Link](https://colab.research.google.com/drive/1x18GCZbdKbODB5kRYddJIHlZuCwYmU92#scrollTo=nOsA37CatOhU)
 
 ---
 
@@ -62,7 +62,7 @@ A consolidated notebook that combines all analyses and comparisons in one place.
 - **Topic Modeling with BERTopic**:  
   - Key topics extracted and visualized from reviews.  
 
-[Colab Link](https://colab.research.google.com/github/Ifham-Ansari/IMDB-dataset-Sentiment-Analysis-Topic-Modeling/blob/main/index.ipynb)
+[Colab Link](https://colab.research.google.com/drive/1cJkCDYMUJvpjZ2g2tinOr36ni3OsoX4a#scrollTo=x0x-W6ZE1DOI)
 
 ---
 
