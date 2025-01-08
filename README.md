@@ -1,5 +1,5 @@
 
-# Sentiment Analysis and Topic Modeling on IMDB 50k Reviews
+# IMDb Movies Reviews Sentiment Analysis
 
 ## Overview
 This repository contains various projects focused on sentiment analysis and topic modeling, utilizing machine learning (ML), deep learning (DL), and natural language processing (NLP) techniques. The IMDB 50k reviews dataset is used to preprocess, analyze, and derive meaningful insights about movie reviews.
